@@ -17,4 +17,4 @@ For low-res rigs, I like to set weights in key locations with the component
 editor, then use the weight hammer to blend both those locations (where it
 makes sense to), and the areas between them.
 
-¹ hammer = here, smoothing out the skin weights on selected/contained verts
+¹ hammer = here, to smooth out the skin weights on selected/contained verts
